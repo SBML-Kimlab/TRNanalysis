@@ -1,0 +1,5 @@
+Sample_id,BAM
+WT_1,mini_RNA-seq_Ecoli_mid-37-1.bam
+WT_2,mini_RNA-seq_Ecoli_mid-37-2.bam
+K/O_RpoS_1,mini_RNA-seq_Ecoli_del_rpoS_mid-37-1.bam
+K/O_RpoS_2,mini_RNA-seq_Ecoli_del_rpoS_mid-37-2.bam
