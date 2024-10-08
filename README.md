@@ -5,8 +5,8 @@
 The pipelines and test datasets provided here are designed for researchers who want to analyze TRNs using ChIP-exo and RNA-seq data. The information of files provided are described below:
 
 ### Pipelines : Download .ipynb file (for Google Colab or Jupyter notebook)  
-&nbsp;- Protocol-A.4_Classification_of_Regulatory_Roles.ipynb : Python-based automated pipeline for classifying the regulatory roles of each curated peak from ChIP-exo dataset.  
-&nbsp;- Protocol-B.1_Data_Pre-processing_for_RNA-seq_Dataset.ipynb : Python-based pipeline for preprocessing of RNA-seq dataset.  
+&nbsp;- Protocol-A.4_Classification_of_Regulatory_Roles.ipynb : Python-based automated pipeline for classifying the regulatory roles of each curated peak from ChIP-exo datasets.  
+&nbsp;- Protocol-B.1_Data_Pre-processing_for_RNA-seq_Dataset.ipynb : Python-based pipeline for preprocessing of RNA-seq datasets.  
 &nbsp;- Protocol-B.2_Calculation_of_Differentially_Expressed_Genes.ipynb : R-based pipeline for calculating the DEGs using DESeq2.  
 &nbsp;&nbsp;Using Colab in local runtime : https://research.google.com/colaboratory/local-runtimes.html <br>
 
