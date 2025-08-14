@@ -9,6 +9,7 @@ The pipelines and test datasets provided here are designed for researchers who w
 &nbsp;- Protocol-B.1_Data_Pre-processing_for_RNA-seq_Dataset.ipynb : Python-based pipeline for preprocessing of RNA-seq datasets.  
 &nbsp;- Protocol-B.2_Calculation_of_Differentially_Expressed_Genes.ipynb : R-based pipeline for calculating the DEGs using DESeq2.  
 &nbsp;&nbsp;Using Colab in local runtime : https://research.google.com/colaboratory/local-runtimes.html <br>
+&nbsp;&nbsp;Using RNA-seq pipeline in Colab : https://drive.google.com/drive/folders/15GbmfyVQtEht3zDOkjJKDZ26NVwgux4W?usp=sharing
 
 ### Test datasets : Download the files to your working directory  
 &nbsp;- ChIP-exo dataset : Duplicates of mini_ChIP-exo-Ecoli-rpoS-mid-37.fastq.gz (Only R1 file)  
